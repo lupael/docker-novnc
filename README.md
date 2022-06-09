@@ -1,8 +1,8 @@
-# noVNC Docker Baseimage
+# noVNC Docker Winbox Baseimage
 
-[![](https://images.microbadger.com/badges/image/lupael/docker-novnc.svg)](http://microbadger.com/images/lupael/docker-novnc "Get your own image badge on microbadger.com") [![](https://img.shields.io/docker/cloud/automated/lupael/docker-novnc)](https://cloud.docker.com/repository/docker/lupael/docker-novnc) [![](https://images.microbadger.com/badges/version/lupael/docker-novnc.svg)](http://microbadger.com/images/lupael/docker-novnc "Get your own version badge on microbadger.com") [![](https://img.shields.io/docker/pulls/lupael/docker-novnc.svg)](https://cloud.docker.com/repository/docker/lupael/docker-novnc) [![](https://img.shields.io/docker/stars/lupael/docker-novnc.svg)](https://cloud.docker.com/repository/docker/lupael/docker-novnc) [![](https://img.shields.io/github/last-commit/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc) [![](https://img.shields.io/maintenance/yes/2022.svg)](https://github.com/lupael/docker-novnc) [![](https://img.shields.io/github/issues-raw/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc/issues) [![](https://img.shields.io/github/issues-pr-raw/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc/pulls)
+[![](https://images.microbadger.com/badges/version/lupael/docker-novnc.svg)](http://microbadger.com/images/lupael/docker-novnc "Get your own version badge on microbadger.com") [![](https://img.shields.io/docker/pulls/lupael/docker-novnc.svg)](https://cloud.docker.com/repository/docker/lupael/docker-novnc) [![](https://img.shields.io/docker/stars/lupael/docker-novnc.svg)](https://cloud.docker.com/repository/docker/lupael/docker-novnc) [![](https://img.shields.io/github/last-commit/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc) [![](https://img.shields.io/maintenance/yes/2022.svg)](https://github.com/lupael/docker-novnc) [![](https://img.shields.io/github/issues-raw/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc/issues) [![](https://img.shields.io/github/issues-pr-raw/lupael/docker-novnc.svg)](https://github.com/lupael/docker-novnc/pulls)
 
-Full docker container with remote access via noVNC web interface
+Mikrotik's Winbox in a docker container accessible via noVNC through a web browser.
 
 support of env variabls:
 - PUID=1000 default
