@@ -4,7 +4,7 @@
 
 Mikrotik's Winbox in a docker container accessible via noVNC through a web browser.
 
-support of env variabls:
+supported env variabls:
 - PUID=1000 default
 - PGID=1000 default
 
