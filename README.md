@@ -12,7 +12,7 @@ Optional Basic Auth
 - APP_USERNAME=
 - APP_PASSWORD=
 
-Optional Server Ports
+Optional Server Ports:
 - HTTP_PORT=8080 default
 - HTTPS_PORT=8443 default
 
